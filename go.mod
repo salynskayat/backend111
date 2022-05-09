@@ -1,4 +1,4 @@
-module github.com/kshmatov/testgrpc/api
+module github.com/salynskayat/backend/api
 
 go 1.17
 
