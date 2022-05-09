@@ -1,4 +1,4 @@
-module github.com/salynskayat/backend/api
+module github.com/salynskayat/backend
 
 go 1.17
 
