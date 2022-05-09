@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option go_package="backend/api";
+option go_package="github.com/salynskayat/backend111";
 
 package api;
 
